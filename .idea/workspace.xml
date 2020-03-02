@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="407b1916-4683-4c4b-b11b-c68174b1b0df" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cpkDB.db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cpkDB.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cpkDB.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cpkDB.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="certificates: table" type="3d80ac25:SqliteImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VXtDCI1ckY62NqiDazBHUU64CO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="185" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/commons-lang3-3.9.jar!/" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lflx1\IdeaProjects\CPK\xin.haotopia.cpk\static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.pkiguiForm">
+    <configuration name="ECC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ECC" />
+      <module name="xin.haotopia.cpk" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestCa" />
+      <module name="xin.haotopia.cpk" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pkiguiForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pkiguiForm" />
+      <module name="xin.haotopia.cpk" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.pkiguiForm" />
+        <item itemvalue="Application.ECC" />
+        <item itemvalue="Application.TestCa" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="407b1916-4683-4c4b-b11b-c68174b1b0df" name="Default Changelist" comment="" />
+      <created>1577411146074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577411146074</updated>
+      <workItem from="1577411149988" duration="3245000" />
+      <workItem from="1577672670807" duration="7933000" />
+      <workItem from="1577760784355" duration="1388000" />
+      <workItem from="1577762596134" duration="11133000" />
+      <workItem from="1577927136713" duration="129081000" />
+      <workItem from="1582432877485" duration="368000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="374" y="160" key="#Project_Structure" timestamp="1577411180482">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="374" y="160" key="#Project_Structure/0.0.1563.1002@0.0.1563.1002" timestamp="1577411180482" />
+    <state x="374" y="160" key="#SQL_Dialects" timestamp="1578026835286">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="374" y="160" key="#SQL_Dialects/0.0.1563.1002@0.0.1563.1002" timestamp="1578026835286" />
+    <state x="562" y="166" key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog_Form" timestamp="1577861709949">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="562" y="166" key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog_Form/0.0.1563.1002@0.0.1563.1002" timestamp="1577861709949" />
+    <state x="374" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577949273796">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="374" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1563.1002@0.0.1563.1002" timestamp="1577949273796" />
+    <state x="587" y="211" key="#com.intellij.ide.util.MemberChooser" timestamp="1578233139894">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="587" y="211" key="#com.intellij.ide.util.MemberChooser/0.0.1563.1002@0.0.1563.1002" timestamp="1578233139894" />
+    <state x="512" y="291" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1577861731950">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="512" y="291" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1563.1002@0.0.1563.1002" timestamp="1577861731950" />
+    <state x="563" y="386" width="436" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1577945427596">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="563" y="386" width="436" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1563.1002@0.0.1563.1002" timestamp="1577945427596" />
+    <state x="212" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1577863792170">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="212" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1563.1002@0.0.1563.1002" timestamp="1577863792170" />
+    <state x="512" y="265" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1578132410185">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="512" y="265" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1563.1002@0.0.1563.1002" timestamp="1578132410185" />
+    <state x="537" y="380" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1577675176176">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="537" y="380" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1563.1002@0.0.1563.1002" timestamp="1577675176176" />
+    <state x="459" y="242" key="FileChooserDialogImpl" timestamp="1578217112483">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="459" y="242" key="FileChooserDialogImpl/0.0.1563.1002@0.0.1563.1002" timestamp="1578217112483" />
+    <state width="1520" height="269" key="GridCell.Tab.0.bottom" timestamp="1578380410137">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state width="1520" height="269" key="GridCell.Tab.0.bottom/0.0.1563.1002@0.0.1563.1002" timestamp="1578380410137" />
+    <state width="1520" height="269" key="GridCell.Tab.0.center" timestamp="1578380410137">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state width="1520" height="269" key="GridCell.Tab.0.center/0.0.1563.1002@0.0.1563.1002" timestamp="1578380410137" />
+    <state width="1520" height="269" key="GridCell.Tab.0.left" timestamp="1578380410137">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state width="1520" height="269" key="GridCell.Tab.0.left/0.0.1563.1002@0.0.1563.1002" timestamp="1578380410137" />
+    <state width="1520" height="269" key="GridCell.Tab.0.right" timestamp="1578380410137">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state width="1520" height="269" key="GridCell.Tab.0.right/0.0.1563.1002@0.0.1563.1002" timestamp="1578380410137" />
+    <state x="262" y="76" key="SettingsEditor" timestamp="1578217115643">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="262" y="76" key="SettingsEditor/0.0.1563.1002@0.0.1563.1002" timestamp="1578217115643" />
+    <state x="652" y="295" key="UIDesigner.ListEditorDialog" timestamp="1577762192430">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="652" y="295" key="UIDesigner.ListEditorDialog/0.0.1563.1002@0.0.1563.1002" timestamp="1577762192430" />
+    <state x="498" y="141" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1578134917764">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="498" y="141" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1563.1002@0.0.1563.1002" timestamp="1578134917764" />
+    <state x="469" y="325" key="com.intellij.ide.util.TipDialog" timestamp="1577411155712">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="469" y="325" key="com.intellij.ide.util.TipDialog/0.0.1563.1002@0.0.1563.1002" timestamp="1577411155712" />
+    <state x="550" y="382" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog" timestamp="1577861833925">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="550" y="382" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog/0.0.1563.1002@0.0.1563.1002" timestamp="1577861833925" />
+    <state x="512" y="266" key="extract.method.dialog" timestamp="1578039938346">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="512" y="266" key="extract.method.dialog/0.0.1563.1002@0.0.1563.1002" timestamp="1578039938346" />
+    <state x="151" y="222" key="new project wizard" timestamp="1577413393859">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="151" y="222" key="new project wizard/0.0.1563.1002@0.0.1563.1002" timestamp="1577413393859" />
+    <state x="524" y="156" key="refactoring.ChangeSignatureDialog" timestamp="1578198640484">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="524" y="156" key="refactoring.ChangeSignatureDialog/0.0.1563.1002@0.0.1563.1002" timestamp="1578198640484" />
+    <state x="444" y="216" width="672" height="678" key="search.everywhere.popup" timestamp="1578232585380">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="444" y="216" width="672" height="678" key="search.everywhere.popup/0.0.1563.1002@0.0.1563.1002" timestamp="1578232585380" />
+  </component>
+</project>
